@@ -25,9 +25,9 @@ QUESTION FOR DATA SET
 ---------------------
 How many food establishments are close in proximity to county offices that host public meetings?
 
------------------
-CITATION FOR NEW   
-----------------
+-------------------------
+CITATION FOR NEW DATA SET   
+--------------------------
 Morgan, D. (2015). Food Establishments Near Major Howard County Offices [combination data file].
 
 -----------
