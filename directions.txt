@@ -1,0 +1,10 @@
+Combining the datasets
+a) Copy the data from the County Offices – Major spreadsheet
+b) Go to the Food Establishments spreadsheet and freeze the top row in place by going to View -> Freeze Panes -> Freeze Top Row
+c) Paste that data into the Food Establishments spreadsheet starting at row 1129
+c) Highlight cells F1129 through F1134
+d) Drag those six cells three columns to the right, which will place them under the “geom” column
+e) Highlight cells E1129 through E1134
+f) Drag those six cells one column to the right, which will place them under the “ZipCode1” column 
+g) Click on cell E1128 and hover cursor over the bottom right corner of the cell, which should show a plus sign
+h) Drag the plus sign down to cell E1134, which will copy “MD” into cells E1129 through E1134
